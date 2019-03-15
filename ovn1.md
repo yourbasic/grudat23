@@ -107,12 +107,12 @@ public LinkedList:
 
 Ditt program ska bestå av två klasser:
 
-- LinkedList är den publika delen av programmet
-- ListElement är en privat hjälpklass som implementerar ett element i den länkade listan.
+- <code>LinkedList</code> är den publika delen av programmet,
+- <code>ListElement</code> är en privat hjälpklass som implementerar ett element i den länkade listan.
 
 Titta gärna på mallarna. De visar hur man kan skriva och testa en klass i Python, Java respektive Go:
 
-- [github.com/yourbasic/grudat19/blob/master/ovn0/uppg3.py](https://github.com/yourbasic/grudat19/blob/master/ovn0/uppg2.py)
+- [github.com/yourbasic/grudat19/blob/master/ovn0/uppg3.py](https://github.com/yourbasic/grudat19/blob/master/ovn0/uppg3.py)
 - [github.com/yourbasic/grudat19/blob/master/ovn0/Stack.java](https://github.com/yourbasic/grudat19/blob/master/ovn0/Stack.java)
 - [github.com/yourbasic/grudat19/blob/master/ovn0/uppg3.go](https://github.com/yourbasic/grudat19/blob/master/ovn0/uppg3.go)
 
