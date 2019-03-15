@@ -1,8 +1,7 @@
 # Övning 1 grudat19 (EJ KLAR)
 ### Fredag 29/3 kl 08.00
 
-- Samtliga uppgifter på kursen ska lämnas in på ditt [Githubkonto på KTH](https://gits-15.sys.kth.se/grudat19).
-- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>/grudat19/username-ovn1</code>.
+- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>/grudat19/username-ovn1</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
 - Utgå från mallarna i [/grudat19/ovn0/](https://github.com/yourbasic/grudat19/tree/master/ovn0).
 - Lösningar skall vara inlämnade **innan övningen börjar**.
 
@@ -17,7 +16,7 @@ Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lös
 
 - Implementera fakultetsfunktionen för heltal.
 
-Utgå från någon av mallarna
+Utgå från en av mallarna
 
 - [github.com/yourbasic/grudat19/blob/master/ovn0/uppg2.py](https://github.com/yourbasic/grudat19/blob/master/ovn0/uppg2.py)
 - [github.com/yourbasic/grudat19/blob/master/ovn0/Uppg2.java](https://github.com/yourbasic/grudat19/blob/master/ovn0/Uppg2.java)
@@ -26,6 +25,7 @@ Utgå från någon av mallarna
 ### 1.2 Länkade listor
 
 En lista, ett antal element ordnade i en linjär struktur, är den kanske enklaste och mest grundläggande datastrukturen.
+
 En länkad lista är en sekvens av listelement förbundna av pekare.
 En länkad lista med tre heltal <code>[2,&nbsp;2,&nbsp;1]</code> ser ut så här:
 
@@ -36,7 +36,7 @@ En länkad lista med tre heltal <code>[2,&nbsp;2,&nbsp;1]</code> ser ut så här
      ----------        ----------        ------------
 </code></pre>
 
-(Nullpekaren har många namn: <code>None</code>, <code>nil</code> eller <code>null</code>.)
+(Nullpekaren har olika namn i olika programspråk: <code>None</code>, <code>nil</code> eller <code>null</code>.)
 
 Listelementen kan implementeras som objekt med två instansvariabler,
 en variabel som innehåller värdet och en variabel som pekar på nästa element i listan.
@@ -49,11 +49,10 @@ private ListElement:
 </code></pre>
 
 
-- Implementera en enkellänkad lista i form av en klass som innehåller funktionerna i följande pseudokod.
-  Du får inte ändra klassens gränssnitt, dvs du får inte ändra de publika metoderna eller
-  lägga till några andra publika metoder.
-
-#### Pseudokod
+- Implementera en enkellänkad lista i form av en klass som innehåller funktionerna i följande **pseudokod**.
+ 
+Du får inte ändra klassens gränssnitt, dvs du får inte ändra de publika metoderna eller
+lägga till några andra publika metoder.
 
 <pre><code># A singly linked list of elements of type T.
 public LinkedList:
