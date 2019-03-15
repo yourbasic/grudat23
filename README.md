@@ -21,7 +21,7 @@ och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 - Övning 4 publiceras senare
 - Övning 5 publiceras senare
 - Övning 6 publiceras senare
-- Projekt (Övning 7)
+- Projekt (Övning 7) publiceras senare
 
 Övning x på kursen ska lämnas in i katalogen
 <code>username-ovnx</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
