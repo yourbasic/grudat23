@@ -36,4 +36,6 @@ def main():
 		res += s.pop()
 	assert res == exp
 
+	# TODO Add more test cases
+
 if __name__ == '__main__': main()
