@@ -28,4 +28,4 @@ Uppgift x på kursen ska lämnas in i katalogen
 (*Katalogerna har ännu inte genererats*.)
 
 Användaren `nisse` hittar alltså sitt repo för övning 1 på adressen
-<code>https://gits-15.sys.kth.se/grudat19/nisse-ovn1</code>.
+<code>gits-15.sys.kth.se/grudat19/nisse-ovn1</code>.
