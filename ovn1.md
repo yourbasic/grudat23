@@ -1,7 +1,7 @@
 # Övning 1 grudat19 (EJ KLAR)
 ### Fredag 29/3 kl 08.00
 
-- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>/grudat19/username-ovn1</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
+- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn1</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
 - Utgå från mallarna i [/grudat19/ovn0/](https://github.com/yourbasic/grudat19/tree/master/ovn0).
 - Lösningar skall vara inlämnade **innan övningen börjar**.
 
@@ -50,9 +50,8 @@ private ListElement:
 
 
 - Implementera en enkellänkad lista i form av en klass som innehåller funktionerna i följande **pseudokod**.
- 
-Du får inte ändra klassens gränssnitt, dvs du får inte ändra de publika metoderna eller
-lägga till några andra publika metoder.
+  Du får inte ändra klassens gränssnitt, dvs du får inte ändra **signaturerna** eller **dokumentationskommentarerna**
+  på de  publika metoderna eller lägga till några andra publika metoder.
 
 <pre><code># A singly linked list of elements of type T.
 public LinkedList:
