@@ -2,7 +2,7 @@
 
 ### Övningar [DD1327](https://www.kth.se/social/course/DD1327/) Grundläggande datalogi 2019
 
-Kursen examineras med **individuella** inlämningsuppgifter som redovisas **muntligt**
+Kursen examineras med **individuella** skriftliga inlämningsuppgifter som redovisas **muntligt**
 i samband med de **obligatoriska** övningarna.
 
 Återkoppling på uppgifterna får du på *övningarna* och **ibland** också via *issues* i GitHub.
