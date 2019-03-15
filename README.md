@@ -8,7 +8,8 @@ Kursen examineras med individuella inlämningsuppgifter som redovisas muntligt i
 
 - Mindre fel och missförstånd reder vi vanligtvis ut på övningarna.
 - En *issue* innebär att du missat något viktigt på uppgiften och måste komplettera.
-- Om du inte lämnat in ett ordentligt försök till lösning i tid så kan du inte komplettera.
+- Om du inte lämnat in ett ordentligt försök till lösning i tid så får du ingen poäng för det momentet
+  och kan inte heller komplettera.
 
 *Det är tillåtet att missa ett enskilt övningstillfälle om man berättar för sin övningsassistent i förväg
 och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
