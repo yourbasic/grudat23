@@ -16,11 +16,11 @@ i samband med de *obligatoriska* övningarna.
 och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 
 - [Övning 1](https://github.com/yourbasic/grudat19/blob/master/ovn1.md)
-- Övning 2
-- Övning 3
-- Övning 4
-- Övning 5
-- Övning 6
+- [Övning 2](https://github.com/yourbasic/grudat19/blob/master/ovn2.md)
+- 
+- 
+- 
+- 
 - Projekt (Övning 7)
 
 Övning x på kursen ska lämnas in i katalogen
