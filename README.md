@@ -16,3 +16,11 @@ Du väljer själv vilket av programspråken Python, Go eller Java du vill använ
 **Observera att all kod på den här kursen ska dokumenteras och testas.**
 
 Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
+
+- [Övning 1](https://github.com/yourbasic/grudat19/blob/master/ovn1.md)
+-
+-
+-
+-
+-
+-
