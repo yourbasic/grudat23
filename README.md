@@ -23,7 +23,7 @@ och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 - Övning 6
 - Projekt (Övning 7)
 
-Uppgift x på kursen ska lämnas in i katalogen
+Övning x på kursen ska lämnas in i katalogen
 <code>username-ovnx</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
 (*Katalogerna har ännu inte genererats*.)
 
