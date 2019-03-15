@@ -16,12 +16,12 @@ i samband med de *obligatoriska* övningarna.
 och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 
 - [Övning 1](https://github.com/yourbasic/grudat19/blob/master/ovn1.md)
--
--
--
--
--
--
+- Övning 2
+- Övning 3
+- Övning 4
+- Övning 5
+- Övning 6
+- Projekt (Övning 7)
 
 Uppgift x på kursen ska lämnas in i katalogen
 <code>username-ovnx</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
