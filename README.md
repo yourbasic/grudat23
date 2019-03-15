@@ -15,7 +15,7 @@ i samband med de *obligatoriska* övningarna.
 *Det är tillåtet att missa ett enskilt övningstillfälle om man berättar för sin övningsassistent i förväg
 och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 
-- [Övning 1](https://github.com/yourbasic/grudat19/blob/master/ovn1.md)
+- [Övning 1](https://github.com/yourbasic/grudat19/blob/master/ovn1.md) fredag 29/3 kl 08.00
 - Övning 2
 - Övning 3
 - Övning 4
