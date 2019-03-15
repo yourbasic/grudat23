@@ -17,10 +17,10 @@ och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 
 - [Övning 1](https://github.com/yourbasic/grudat19/blob/master/ovn1.md)
 - [Övning 2](https://github.com/yourbasic/grudat19/blob/master/ovn2.md)
-- 
-- 
-- 
-- 
+- [Övning 3](https://github.com/yourbasic/grudat19/blob/master/ovn3.md)
+- Övning 4 publiceras senare
+- Övning 5 publiceras senare
+- Övning 6 publiceras senare
 - Projekt (Övning 7)
 
 Övning x på kursen ska lämnas in i katalogen
