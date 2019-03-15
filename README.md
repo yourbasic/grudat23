@@ -4,7 +4,7 @@
 
 Kursen examineras med individuella inlämningsuppgifter som redovisas muntligt i samband med de obligatoriska övningarna.
 
-Samtliga uppgifter på kursen ska lämnas in i katalogen
+Uppgift x på kursen ska lämnas in i katalogen
 <code>username-ovnx</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
 (*Katalogerna har ännu inte genererats*.)
 
