@@ -7,8 +7,8 @@
 
 Du väljer själv vilket av programspråken Python, Go eller Java du vill använda.
 **Observera att all kod på den här kursen ska dokumenteras och testas.**
-
 Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
+
 *Gör antingen uppgift 2.3 eller 2.5, inte båda.*
 
 ## Betyg G
