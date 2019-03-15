@@ -47,4 +47,4 @@ dvs använda högst *O*(1) extra utrymme. *Du får inte använda någon sorterin
 
 För betyg VG ska du göra samma uppgifter som för betyg G,
 men med det extra kravet att algoritmerna i **uppgift 3.2 och 3.3** ska ha *O*(*n*) tidskomplexitet.
-(Det räcker med förväntad tid, men värstafall går förstås också bra.)
+Det räcker med förväntad tid, men värstafall går förstås också bra.
