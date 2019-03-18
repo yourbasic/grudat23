@@ -25,7 +25,7 @@ och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 
 Övning x på kursen ska lämnas in i katalogen
 <code>username-ovnx</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
-(*Katalogerna har ännu inte genererats*.)
+(Katalogerna kommer att genereras på fredag 22/3 för de som är **registrerade** på kursen.)
 
 Användaren `nisse` hittar alltså sitt repo för övning 1 på adressen
 <code>gits-15.sys.kth.se/grudat19/nisse-ovn1</code>.
