@@ -26,7 +26,7 @@ och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 Övning x på kursen ska lämnas in i katalogen
 <code>username-ovnx</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
 
-*Katalogerna finns nu på plats men för några av er (13 stycken) kan det ta ytterligare några dagar innan ni kan logga in på servern. Jag har bett it-support att fixa.*
+*Katalogerna finns nu på plats. Om ni loggar in på KTH GitHub för första gången så kan det ta någon dag innan ni kommer åt er katalog.*
 
 Användaren `nisse` hittar alltså sitt repo för övning 1 på adressen
 <code>gits-15.sys.kth.se/grudat19/nisse-ovn1</code>.
