@@ -1,7 +1,7 @@
 # Övning 4 grudat19
 ### Fredag 26/4 kl 08.00
 
-- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn3</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
+- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn4</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
 - Utgå från mallarna i [/grudat19/ovn0/](https://github.com/yourbasic/grudat19/tree/master/ovn0).
 - Lösningar ska vara inlämnade **innan övningen börjar**.
 
