@@ -21,7 +21,7 @@ och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 - Övning 4 publiceras senare
 - Övning 5 publiceras senare
 - Övning 6 publiceras senare
-- [Projekt (övning 7)](https://github.com/yourbasic/grudat19/blob/master/ovn1.md) (Del 1: 10/5 kl 08.00, Del 2: 17/5 kl 08.00)
+- [Projekt (övning 7)](https://github.com/yourbasic/grudat19/blob/master/ovn7.md) (Del 1: 10/5 kl 08.00, Del 2: 17/5 kl 08.00)
 
 Övning x på kursen ska lämnas in i katalogen
 <code>username-ovnx</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
