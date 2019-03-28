@@ -27,12 +27,13 @@ Motivera dina svar.
 
 ![Connected graph with 6 nodes](http://yourbasic.org/algorithms/graph2.png)
 
-Besök noderna i den här grafen i DFS- och BFS-ordning med start i nod 1.
-I vilken ordning besöks noderna i de två fallen?
-Du kan anta att grannarna till en nod besöks i nummerordning.
+- Besök noderna i den här grafen i DFS- och BFS-ordning med start i nod 1.
+  I vilken ordning besöks noderna i de två fallen?
+  Du kan anta att grannarna till en nod besöks i nummerordning.
 
-Tidskomplexiteten för DFS blir i vissa fall mycket bättre om man använder närhetslistor i stället för en närhetsmatris.
-Varför då? För vilken typ av grafer blir den asymptotiska tidskomplexiteten för DFS den samma för båda datastrukturerna?
+- Tidskomplexiteten för DFS blir i vissa fall mycket bättre om man använder närhetslistor i stället för en närhetsmatris.
+Varför då? 
+- För vilken typ av grafer blir den asymptotiska tidskomplexiteten för DFS den samma för båda datastrukturerna?
 
 ## Betyg VG
 
