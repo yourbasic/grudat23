@@ -29,7 +29,7 @@ Motivera dina svar.
 
 ![Connected graph with 6 nodes](http://yourbasic.org/algorithms/graph2.png)
 
-Besök noderna i den här grafen i DFS- och BFS-ordning.
+Besök noderna i den här grafen i DFS- och BFS-ordning med start i nod 1.
 I vilken ordning besöks noderna i de två fallen?
 Du kan anta att grannarna till en nod besöks i nummerordning.
 
