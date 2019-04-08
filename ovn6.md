@@ -34,7 +34,7 @@ p(1) = h[1], p(n) = max(h[i] + p(n-i)) där 1 &le; i < n, om n > 1.
 - Implementera en rekursiv funktion som beräknar p(n). Glöm inte dokumentation och testkod.
 - Förklara varför tidskomplexiteten för denna funktion är exponentiell.
 - Förbättra tidskomplexiteten på ditt program genom att cacha delresultat.
-- Visa att tidskomplexiteten för din nya algoritm är O(n^2).
+- Visa att tidskomplexiteten för den uppdaterade algoritmen är O(n^2).
 
 ### Reguljära uttryck (Kattis)
 
@@ -91,6 +91,10 @@ delsekvens i s, dvs om vi genom att ta bort några tecken ur s kan bilda x. Om s
 kan anta att indatasträngen x bara består av bokstäver och siffror.
 
 ## Betyg VG
+
+Uppdatera koden i G-uppgiften så att den inte bara beräknar den maximala inkomst,
+utan också ger en lista över halsdukar (garnåtgång och antal) som uppnår detta.
+Om det finns flera möjliga lösningar så räcker det om du anger en.
 
 ### Mer dynamisk programmering
 
