@@ -9,7 +9,7 @@ Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lös
 
 ## Betyg G
 
-<!-- CC BY-SA 2.0: https://www.flickr.com/photos/bekathwia/5148701602 ->
+<!-- CC BY-SA 2.0: https://www.flickr.com/photos/bekathwia/5148701602 -->
 ![Knitting machine HACKED](https://github.com/yourbasic/grudat19/blob/master/knitting-machine-hacked.jpg)
 
 
