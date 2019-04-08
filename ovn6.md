@@ -27,7 +27,7 @@ h[n] är det högsta priset på en halsduk som man kan sticka av n meter garn.
 
 För att tjäna så mycket pengar som möjligt vill vi förstås hitta en optimal kollektion.
 Följande rekursion beräknar den maximala inkomsten p(n) som man kan tjäna genom att sticka halsdukar av n meter garn:
-p(1) = h[1], p(n) = max(h[i] + p(n-i)) där 1 &le; i < n, om n > 1.
+p(0) = 0, p(n) = max(h[i] + p(n-i)) där 1 &le; i &le; n, om n > 0.
 
 - Förklara varför rekursionen fungerar.
 - Implementera en rekursiv funktion som beräknar p(n). Glöm inte dokumentation och testkod.
