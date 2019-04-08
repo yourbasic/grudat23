@@ -5,12 +5,14 @@
 - Utgå från mallarna i [/grudat19/ovn0/](https://github.com/yourbasic/grudat19/tree/master/ovn0).
 - Lösningar ska vara inlämnade **innan övningen börjar**.
 
-*Den här gången ska du testa vissa av dina lösningar på Kattis
-innan du lämnar in dem på ditt githubkonto. Du får tillgång till Kattis genom att
-[logga in](https://kth.kattis.com/login) med ditt KTH-id. Om du inte använt Kattis förut så
-kan du lära dig allt du behöver i den här utmärkta [exempelmanualen](https://kth.kattis.com/help).*
+Den här gången ska du testa vissa av dina lösningar på Kattis
+innan du lämnar in dem på ditt githubkonto.
 
-Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
+1. Du får tillgång till Kattis genom att [logga in](https://kth.kattis.com/login) med ditt KTH-id.
+2. Du ska också [registrera dig på grudat19](https://kth.kattis.com/courses/DD1320/tildav19/register) i Kattis.
+
+Om du inte använt Kattis förut så kan du lära dig allt du behöver i den här utmärkta
+[exempelmanualen](https://kth.kattis.com/help).
 
 ## Betyg G
 
@@ -20,7 +22,7 @@ Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lös
 ![Knitting machine HACKED](https://github.com/yourbasic/grudat19/blob/master/knitting-machine-hacked.jpg)
 
 
-### Kattis
+### Reguljära uttryck (Kattis)
 
 #### Uppgift [kth.progp.s1](https://kth.kattis.com/problems/kth.progp.s1)
 
@@ -78,7 +80,7 @@ kan anta att indatasträngen x bara består av bokstäver och siffror.
 
 ### Mer dynamisk programmering
 
-### Mer reguljära uttryck
+### Mer reguljära uttryck (Kattis)
 
 ### 5. Ekvationer utan parenteser
 
