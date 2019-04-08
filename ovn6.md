@@ -20,8 +20,7 @@ Mer information om Kattis hittar du i den här utmärkta [exempelmanualen](https
 <!-- CC BY-SA 2.0: https://www.flickr.com/photos/bekathwia/5148701602 -->
 ![Knitting machine HACKED](https://github.com/yourbasic/grudat19/blob/master/knitting-machine-hacked.jpg)
 
-En F-teknolog har kommit över en stickmaskin och ett parti garn och vill tjäna så mycket pengar
-som möjligt på att sticka och sälja halsdukar.
+En F-teknolog har kommit över en stickmaskin och ett parti garn och planerar att sticka och sälja halsdukar.
 
 Efter en noggrann marknadsundersökning har teknologen sammanställt en tabell över priset på olika typer av halsdukar:
 h[n] är det högsta priset på en halsduk som man kan sticka av n meter garn.
@@ -33,7 +32,11 @@ Följande rekursion beräknar det maximala inkomsten p(n) man kan tjäna genom a
 - p(1) = h[1]
 - p(n) = max(h[i] + p(n-i)) där 1 <= i < n, om n > 1.
 
-##
+- Förklara varför den här rekursionen fungerar.
+- Implementera en rekursiv funktion som beräknar p(n). Glöm inte dokumentation och testkod.
+- Förklara varför tidskomplexiteten för denna funktion är exponentiell.
+- Förbättra tidskomplexiteten på ditt program genom att cacha delresultat.
+- Visa att tidskomplexiteten för din nya algoritm är O(n^2).
 
 ### Reguljära uttryck (Kattis)
 
