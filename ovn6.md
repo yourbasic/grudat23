@@ -25,8 +25,7 @@ En F-teknolog har kommit över en stickmaskin och ett parti garn och planerar at
 Efter en noggrann marknadsundersökning har teknologen sammanställt en tabell över priset på olika typer av halsdukar:
 h[n] är det högsta priset på en halsduk som man kan sticka av n meter garn.
 
-För att tjäna så mycket pengar som möjligt vill man hitta en optimal kollektion som man kan sticka
-av en viss mängd tillgängligt garn.
+För att tjäna så mycket pengar som möjligt vill vi förstås hitta en optimal kollektion.
 Följande rekursion beräknar det maximala inkomsten p(n) man kan tjäna genom att sticka halsdukar av n meter garn:
 p(1) = h[1], p(n) = max(h[i] + p(n-i)) där 1 &le; i < n, om n > 1.
 
@@ -34,7 +33,7 @@ p(1) = h[1], p(n) = max(h[i] + p(n-i)) där 1 &le; i < n, om n > 1.
 - Implementera en rekursiv funktion som beräknar p(n). Glöm inte dokumentation och testkod.
 - Förklara varför tidskomplexiteten för denna funktion är exponentiell.
 - Förbättra tidskomplexiteten på ditt program genom att cacha delresultat.
-- Visa att tidskomplexiteten för den uppdaterade algoritmen är O(n^2).
+- Visa att tidskomplexiteten för den uppdaterade algoritmen är O(n<sup>2</sup>).
 
 ### Reguljära uttryck (Kattis)
 
