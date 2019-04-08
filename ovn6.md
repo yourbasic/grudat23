@@ -20,6 +20,8 @@ Mer information om Kattis hittar du i den här utmärkta [exempelmanualen](https
 <!-- CC BY-SA 2.0: https://www.flickr.com/photos/bekathwia/5148701602 -->
 ![Knitting machine HACKED](https://github.com/yourbasic/grudat19/blob/master/knitting-machine-hacked.jpg)
 
+[Hacking the Brother KH-930e Knitting Machine](https://www.youtube.com/watch?v=GhnTSWMMtdU)
+
 En F-teknolog har kommit över en stickmaskin och ett parti garn och planerar att sticka och sälja halsdukar.
 
 Efter en noggrann marknadsundersökning har teknologen sammanställt en tabell över priset på olika typer av halsdukar:
