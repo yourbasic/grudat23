@@ -36,7 +36,7 @@ p(0) = 0, p(n) = max(h[i] + p(n-i)) där 1 &le; i &le; n, om n > 0.
 - Beräkna p(4) när h = [2 4 2 3 0 0 0 0&hellip;] Gör beräkningen för hand och rita ett träd över alla funktionsanrop. (Det går bra med ett foto på ett handritat träd.)
 - Förklara varför tidskomplexiteten för denna funktion är exponentiell.
 - Förbättra tidskomplexiteten på ditt program genom att cacha delresultat.
-- Räkna ut en tabell över p(n) för n = 0, 1, 2, 3, 4 när h = [2 4 2 3 0 0 0 0&hellip;]. Gör beräkningen för hand.
+- Räkna ut en tabell över p(n) för n = 0, 1, 2, 3, 4 när h = [2 3 4 7 0 0 0 0&hellip;]. Gör beräkningen för hand.
 - Visa att tidskomplexiteten för den uppdaterade koden är O(n<sup>2</sup>).
 
 ### Reguljära uttryck (Kattis)
