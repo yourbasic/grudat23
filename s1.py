@@ -28,7 +28,7 @@ def equation():     # uppgift 5
 # För att provköra från terminalen, skriv:
 # > python s1.py
 # Skriv in teststrängar:
-# [skriv något roligt]
+# [skriv här]
 # ...
 
 from sys import stdin
