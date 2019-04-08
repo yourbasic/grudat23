@@ -97,7 +97,7 @@ kan anta att indatasträngen x bara består av bokstäver och siffror.
 
 ### Mer dynamisk programmering
 
-Uppdatera koden i G-uppgiften så att den inte bara beräknar den maximala inkomst,
+Uppdatera koden i G-uppgiften så att den inte bara beräknar den maximala inkomsten,
 utan också ger en lista över halsdukar (garnåtgång och antal) som uppnår detta.
 Om det finns flera möjliga lösningar så räcker det om du anger en.
 
