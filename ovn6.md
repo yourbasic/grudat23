@@ -140,3 +140,5 @@ Tänk på att tecknen +, -, &#42; har speciell betydelse i reguljära uttryck
 och att du måste använda \ för att de ska tolkas bokstavligt.
 Se [Special characters](http://yourbasic.org/golang/regexp-cheat-sheet/#special-characters).
 
+(Det finns ytterligare två deluppgifter om reguljära uttryck i Kattis som du gärna får göra.
+De ingår dock inte i den här kursen.)
