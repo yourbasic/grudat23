@@ -13,6 +13,12 @@ innan du lämnar in dem på ditt githubkonto.
 
 Mer information om Kattis hittar du i den här utmärkta [exempelmanualen](https://kth.kattis.com/help).
 
+## Individuellt projekt
+
+Observera att en första version av API och övrig dokumentation till
+det [individuella projektet](https://github.com/yourbasic/grudat19/blob/master/ovn7.md)
+ska vara klar redan till denna övning.
+
 ## Betyg G
 
 ### Dynamisk programmering
