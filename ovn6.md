@@ -1,4 +1,4 @@
-# Övning 6 grudat19 (EJ KLAR)
+# Övning 6 grudat19
 ### Fredag 10/5 kl 08.00
 
 - Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn6</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
