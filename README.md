@@ -20,7 +20,7 @@ och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 - [Övning 3](https://github.com/yourbasic/grudat19/blob/master/ovn3.md) (12/4 kl 08.00)
 - [Övning 4](https://github.com/yourbasic/grudat19/blob/master/ovn4.md) (26/4 kl 08.00)
 - [Övning 5](https://github.com/yourbasic/grudat19/blob/master/ovn5.md) (3/5 kl 08.00)
-- Övning 6 publiceras senare
+- [Övning 6](https://github.com/yourbasic/grudat19/blob/master/ovn6.md) (10/5 kl 08.00)
 - [Projekt (övning 7)](https://github.com/yourbasic/grudat19/blob/master/ovn7.md) (Del 1: 10/5 kl 08.00, Del 2: 17/5 kl 08.00)
 
 Övning x på kursen ska lämnas in i katalogen
