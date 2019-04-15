@@ -35,10 +35,10 @@ Följande rekursion beräknar den maximala inkomsten p(n) som man kan tjäna gen
 
 - Förklara varför rekursionen fungerar.
 - Implementera en rekursiv funktion som beräknar p(n). Glöm inte dokumentation och testkod.
-- Beräkna p(5) när h = [2 5 6 9 0 0 0 0&hellip;] (h[1] = 2, h[2] = 3, osv.). Gör beräkningen för hand och rita ett träd över alla funktionsanrop. (Det går bra med ett foto på ett handritat träd.)
+- Beräkna p(5) när h[1] = 2, h[2] = 5, h[3] = 6, h[4] = 9, h[n] = 0 för n > 4. Gör beräkningen för hand och rita ett träd över alla funktionsanrop. (Det går bra med ett foto på ett handritat träd.)
 - Förklara varför tidskomplexiteten för denna funktion är exponentiell.
 - Förbättra tidskomplexiteten genom att skriva en ny programversion som cachar delresultat.
-- Räkna ut en tabell över p(n) för n = 0, 1, 2, 3, 4, 5 när h = [2 5 6 9 0 0 0 0&hellip;]. Gör beräkningen för hand.
+- Räkna ut en tabell över p(n) för n = 0, 1, 2, 3, 4, 5 för samma h som ovan. Gör beräkningen för hand.
 - Visa att tidskomplexiteten för den uppdaterade koden är O(n<sup>2</sup>).
 
 ### Reguljära uttryck (Kattis)
