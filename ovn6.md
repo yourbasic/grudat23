@@ -75,17 +75,20 @@ kan du alltså skicka in din lösning och se om du klarar alla testfall som hör
 till första uppgiften, och så vidare.
 
 ### 1. DNA
+#### Testfall 1-2
 
 Skriv ett regex som matchar en sträng om och endast om den är en DNA-sekvens, dvs bara består
 av tecknen ACGT (endast stora bokstäver, ej acgt).
 
 ### 2. Sorterade tal
+#### Testfall 3-4
 
 Skriv ett regex som matchar en sträng över tecknen 0-9 om och endast om tecknen i strängen
 är sorterade i fallande ordning. Till exempel ska “42”, “9876543210”, och “000” matchas, men
 “4711”, “11119”, “123”, och “777a” inte matchas.
 
 ### 3. Sök efter given sträng – del 1
+#### Testfall 5-10
 
 Skriv ett regex som matchar en sträng s om och endast en given söksträng x förekommer som
 delsträng i s. Om söksträngen x är “progp” ska alltså t.ex. strängarna “popororpoprogpepor” och
@@ -93,6 +96,7 @@ delsträng i s. Om söksträngen x är “progp” ska alltså t.ex. strängarna
 att indatasträngen x bara består av bokstäver och siffror.
 
 ### 4. Sök efter given sträng – del 2
+#### Testfall 11-16
 
 I den här uppgiften kan du ha användning av metoden
 [string.join](https://docs.python.org/2/library/stdtypes.html#str.join)
@@ -114,6 +118,7 @@ Om det finns flera möjliga lösningar så räcker det om du anger en.
 ### Mer reguljära uttryck (Kattis)
 
 ### 5. Ekvationer utan parenteser
+#### Testfall 17-21
 
 Eftersom reguljära uttryck inte kan användas för att kolla om en uppsättning
 parenteser är balanserade så kan vi inte skriva regex för att matcha allmänna ekvationer. Men vi
