@@ -1,4 +1,4 @@
-# Övning 3 grudat19
+# Övning 3 grudat20
 ### Fredag 8/4 kl 10.00
 
 - Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn3</code> i organisationen [grudat20 på KTH GitHub](https://gits-15.sys.kth.se/grudat20).
