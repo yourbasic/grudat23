@@ -1,8 +1,8 @@
-# Övning 1 grudat19
-### Fredag 29/3 kl 08.00
+# Övning 1 grudat20
+### Fredag 27/3 kl 08.00
 
-- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn1</code> i organisationen [grudat19 på KTH GitHub](https://gits-15.sys.kth.se/grudat19).
-- Utgå från mallarna i [/grudat19/ovn0/](https://github.com/yourbasic/grudat19/tree/master/ovn0).
+- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn1</code> i organisationen [grudat20 på KTH GitHub](https://gits-15.sys.kth.se/grudat20).
+- Utgå från mallarna i [/grudat20/ovn0/](https://github.com/yourbasic/grudat20/tree/master/ovn0).
 - Lösningar ska vara inlämnade **innan övningen börjar**.
 
 Du väljer själv vilket av programspråken Python, Go eller Java du vill använda.
@@ -18,9 +18,9 @@ Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lös
 
 Utgå från en av mallarna
 
-- [github.com/yourbasic/grudat19/blob/master/ovn0/uppg2.py](https://github.com/yourbasic/grudat19/blob/master/ovn0/uppg2.py)
-- [github.com/yourbasic/grudat19/blob/master/ovn0/Uppg2.java](https://github.com/yourbasic/grudat19/blob/master/ovn0/Uppg2.java)
-- [github.com/yourbasic/grudat19/blob/master/ovn0/uppg2.go](https://github.com/yourbasic/grudat19/blob/master/ovn0/uppg2.go)
+- [github.com/yourbasic/grudat20/blob/master/ovn0/uppg2.py](https://github.com/yourbasic/grudat20/blob/master/ovn0/uppg2.py)
+- [github.com/yourbasic/grudat20/blob/master/ovn0/Uppg2.java](https://github.com/yourbasic/grudat20/blob/master/ovn0/Uppg2.java)
+- [github.com/yourbasic/grudat20/blob/master/ovn0/uppg2.go](https://github.com/yourbasic/grudat20/blob/master/ovn0/uppg2.go)
 
 ### 1.2 Länkade listor
 
@@ -40,7 +40,7 @@ En länkad lista med tre heltal <code>[2,&nbsp;2,&nbsp;1]</code> ser ut så här
 
 Listelementen kan implementeras som objekt med två instansvariabler,
 en variabel som innehåller värdet och en variabel som pekar på nästa element i listan.
-I pseudokod:
+I **pseudokod**:
 
 <pre><code># A list element that stores a value of type T.
 private ListElement:
@@ -112,9 +112,9 @@ Ditt program ska bestå av två klasser:
 
 Titta gärna på exempelmallarna. De visar hur man kan skriva och testa en klass i Python, Java respektive Go:
 
-- [github.com/yourbasic/grudat19/blob/master/ovn0/uppg3.py](https://github.com/yourbasic/grudat19/blob/master/ovn0/uppg3.py)
-- [github.com/yourbasic/grudat19/blob/master/ovn0/Stack.java](https://github.com/yourbasic/grudat19/blob/master/ovn0/Stack.java)
-- [github.com/yourbasic/grudat19/blob/master/ovn0/uppg3.go](https://github.com/yourbasic/grudat19/blob/master/ovn0/uppg3.go)
+- [github.com/yourbasic/grudat20/blob/master/ovn0/uppg3.py](https://github.com/yourbasic/grudat20/blob/master/ovn0/uppg3.py)
+- [github.com/yourbasic/grudat20/blob/master/ovn0/Stack.java](https://github.com/yourbasic/grudat20/blob/master/ovn0/Stack.java)
+- [github.com/yourbasic/grudat20/blob/master/ovn0/uppg3.go](https://github.com/yourbasic/grudat20/blob/master/ovn0/uppg3.go)
 
 ## Betyg VG
 
