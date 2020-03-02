@@ -1,4 +1,4 @@
-# Övning 2 grudat19
+# Övning 2 grudat20
 ### Torsdag 2/4 kl 13.00
 
 - Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn2</code> i organisationen [grudat20 på KTH GitHub](https://gits-15.sys.kth.se/grudat20).
