@@ -3,7 +3,7 @@
 
 - Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn6</code> i organisationen [grudat20 på KTH GitHub](https://gits-15.sys.kth.se/grudat20).
 - Utgå från mallarna i [/grudat20/ovn0/](https://github.com/yourbasic/grudat20/tree/master/ovn0).
-- Lösningar ska vara inlämnade **innan övningen börjar**.
+- Lösningar ska vara inlämnade före deadline.
 
 Den här gången ska du testa vissa av dina lösningar på Kattis
 innan du lämnar in dem på ditt githubkonto.
