@@ -3,12 +3,10 @@
 
 - Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn4</code> i organisationen [grudat20 på KTH GitHub](https://gits-15.sys.kth.se/grudat20).
 - Utgå från mallarna i [/grudat20/ovn0/](https://github.com/yourbasic/grudat20/tree/master/ovn0).
-- Lösningar ska vara inlämnade **innan övningen börjar**.
+- Lösningar ska vara inlämnade före deadline.
 
 Du väljer själv vilket av programspråken Python, Go eller Java du vill använda.
 **Observera att all kod på den här kursen ska dokumenteras och testas.**
-
-Vid redovisningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.
 
 ## Betyg G
 
