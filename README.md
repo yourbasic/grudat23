@@ -2,18 +2,13 @@
 
 ### Övningar [DD1327](https://www.kth.se/social/course/DD1327/) Grundläggande datalogi 2020
 
-Kursen examineras med *individuella* skriftliga inlämningsuppgifter som redovisas *muntligt*
-i samband med de *obligatoriska* redovisningarna.
+Kursen examineras med *individuella* skriftliga inlämningsuppgifter som lämnas in via GitHub.
 
-Återkoppling på uppgifterna får du på *redovisningarna* och **ibland** också via *issues* i GitHub.
+Återkoppling på uppgifterna får du via *issues* i GitHub.
 
-- Mindre fel och missförstånd reder vi vanligtvis ut på redovisningarna.
 - En *issue* innebär att du missat något viktigt på uppgiften och måste komplettera.
 - Om du inte lämnat in ett ordentligt försök till lösning i tid så får du ingen poäng för det momentet
   och kan inte heller komplettera.
-
-*Det är tillåtet att missa ett enskilt redovisningstillfälle om man berättar för sin assistent i förväg
-och dessutom lämnar in den skriftliga delen av uppgiften i tid.*
 
 - [Redovisning 1](https://github.com/yourbasic/grudat20/blob/master/ovn1.md) (27/3 kl 10.00)
 - [Redovisning 2](https://github.com/yourbasic/grudat20/blob/master/ovn2.md) (2/4 kl 13.00)
