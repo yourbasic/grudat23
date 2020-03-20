@@ -12,8 +12,6 @@ Du väljer själv vilket av programspråken Python, Go eller Java du vill använ
 
 ### 1.1 Fakultet
 
-[Tips och råd](https://www.youtube.com/watch?v=QRYvu1-H1xQ) (video)
-
 - Implementera fakultetsfunktionen för heltal.
 
 Utgå från en av mallarna
@@ -21,6 +19,8 @@ Utgå från en av mallarna
 - [github.com/yourbasic/grudat20/blob/master/ovn0/uppg2.py](https://github.com/yourbasic/grudat20/blob/master/ovn0/uppg2.py)
 - [github.com/yourbasic/grudat20/blob/master/ovn0/Uppg2.java](https://github.com/yourbasic/grudat20/blob/master/ovn0/Uppg2.java)
 - [github.com/yourbasic/grudat20/blob/master/ovn0/uppg2.go](https://github.com/yourbasic/grudat20/blob/master/ovn0/uppg2.go)
+
+[Tips och råd](https://www.youtube.com/watch?v=QRYvu1-H1xQ) (video)
 
 ### 1.2 Länkade listor
 
