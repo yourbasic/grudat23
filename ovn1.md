@@ -116,6 +116,8 @@ Titta gärna på exempelmallarna. De visar hur man kan skriva och testa en klass
 - [github.com/yourbasic/grudat20/blob/master/ovn0/Stack.java](https://github.com/yourbasic/grudat20/blob/master/ovn0/Stack.java)
 - [github.com/yourbasic/grudat20/blob/master/ovn0/uppg3.go](https://github.com/yourbasic/grudat20/blob/master/ovn0/uppg3.go)
 
+[Tips och råd](https://www.youtube.com/watch?v=SH72Eyelbs4) (video)
+
 ## Betyg VG
 
 ### 1.3 Mera testning
