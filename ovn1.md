@@ -12,6 +12,8 @@ Du väljer själv vilket av programspråken Python, Go eller Java du vill använ
 
 ### 1.1 Fakultet
 
+[Tips och råd](https://www.youtube.com/watch?v=QRYvu1-H1xQ) (video)
+
 - Implementera fakultetsfunktionen för heltal.
 
 Utgå från en av mallarna
