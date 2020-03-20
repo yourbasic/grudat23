@@ -24,7 +24,7 @@ Utgå från en av mallarna
 
 ### 1.2 Länkade listor
 
-En **lista**, ett antal element ordnade i en linjär struktur, är den kanske enklaste och mest grundläggande datastrukturen.
+En **lista** (array), ett antal element ordnade i en linjär struktur, är den kanske enklaste och mest grundläggande datastrukturen.
 
 En **länkad lista** är en sekvens av listelement förbundna av pekare.
 En länkad lista med tre heltal <code>[2,&nbsp;2,&nbsp;1]</code> ser ut så här:
