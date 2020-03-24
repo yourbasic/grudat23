@@ -62,7 +62,7 @@ Här är en enkel algoritm som löser problemet.
 
 - Hitta på en algoritm med bättre asymptotisk tidskomplexitet.
   Beskriv algoritmen i pseudokod och ange dess
-  tidskomplexitet med <i>θ</i>-notation.
+  tidskomplexitet med Θ-notation.
   
 ### 2.3 Binärt sökträd
 
