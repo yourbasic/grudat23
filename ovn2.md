@@ -41,6 +41,7 @@ Vilka av följande påståenden är sanna? Motivera dina svar.
 <li><i>n</i>(<i>n</i>&nbsp;+&nbsp;1)&nbsp;/&nbsp;2 = &Omega;(<i>n</i>)</li>
 </ul>
 
+[Video om ordo-notation](https://yourbasic.org/algorithms/big-o-notation-explained/)
 
 ### 2.2 Prefixsumma
 
@@ -63,6 +64,8 @@ Här är en enkel algoritm som löser problemet.
 - Hitta på en algoritm med bättre asymptotisk tidskomplexitet.
   Beskriv algoritmen i pseudokod och ange dess
   tidskomplexitet med Θ-notation.
+  
+[Video om tidskompleixtet](https://yourbasic.org/algorithms/time-complexity-explained/)
   
 ### 2.3 Binärt sökträd
 
