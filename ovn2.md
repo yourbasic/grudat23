@@ -84,7 +84,7 @@ Följande metoder ska finnas:
 
 *Ange tidskomplexiteten i värstafall för samtliga operationer.*
 
-[https://www.youtube.com/watch?v=NCzRttSCeH4](Tips och råd) (Video)
+[Tips och råd](https://www.youtube.com/watch?v=NCzRttSCeH4) (Video)
 
 ## Betyg VG
 
