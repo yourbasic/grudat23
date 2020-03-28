@@ -84,6 +84,8 @@ Följande metoder ska finnas:
 
 *Ange tidskomplexiteten i värstafall för samtliga operationer.*
 
+[https://www.youtube.com/watch?v=NCzRttSCeH4](Tips och råd) (Video)
+
 ## Betyg VG
 
 ### 2.4 En ovanlig funktion?
