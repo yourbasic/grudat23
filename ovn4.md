@@ -1,6 +1,8 @@
 # Övning 4 grudat20
 ### Fredag 24/4 kl 08.00
 
+**Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.**
+
 - Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn4</code> i organisationen [grudat20 på KTH GitHub](https://gits-15.sys.kth.se/grudat20).
 - Utgå från mallarna i [/grudat20/ovn0/](https://github.com/yourbasic/grudat20/tree/master/ovn0).
 - Lösningar ska vara inlämnade före deadline.
