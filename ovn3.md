@@ -1,5 +1,5 @@
 # Övning 3 grudat20
-### Fredag 8/4 kl 10.00
+### Onsdag 8/4 kl 10.00
 
 **Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.**
 
