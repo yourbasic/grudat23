@@ -22,6 +22,8 @@ Utöver beviset ska du som vanligt skriva testkod.
 
 &ndash; Donald Knuth
 
+[Video om induktion](https://www.youtube.com/watch?v=x8dmvJIF-MI)
+
 ### 3.2 Typvärde
 
 [Typvärdet](https://sv.wikipedia.org/wiki/Typv%C3%A4rde) (mode)
@@ -43,6 +45,8 @@ som finns i standardbiblioteken för Python, Java eller Go.
 
 Algoritmen ska vara **in-place** ([Wikipedia: In-place algorithm](https://en.wikipedia.org/wiki/In-place_algorithm)),
 dvs använda högst *O*(1) extra utrymme. *Du får inte använda någon sorteringsalgoritm.*
+
+[Video om loopinvarianter](https://www.youtube.com/watch?v=vVdDyI1PIUU)
 
 ## Betyg VG
 
