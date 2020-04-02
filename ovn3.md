@@ -35,6 +35,12 @@ i ett statistiskt datamaterial är det värde som förekommer flest gånger.
 
 Det är fritt fram att använda de datastrukturer och algoritmer
 som finns i standardbiblioteken för Python, Java eller Go.
+Det är bra att kunna sitt standardbibliotek och det är bra praxis att använda en färdig vältestad funktion
+snarare än att skriva den själv.
+
+Med det sagt, så får man inte använda https://docs.python.org/3/library/statistics.html#statistics.multimode,
+som ju nästan löser uppgiften direkt.
+Observera också att det inte framgår av Python-dokumentationen vilken tidskomplexitet denna funktion har.
 
 ### 3.3 Negativt och positivt
 
