@@ -58,4 +58,14 @@ dvs använda högst *O*(1) extra utrymme. *Du får inte använda någon sorterin
 
 För betyg VG ska du göra samma uppgifter som för betyg G,
 men med det extra kravet att algoritmerna i **uppgift 3.2 och 3.3** ska ha *O*(*n*) tidskomplexitet.
-Det räcker med förväntad tid, men värstafall går förstås också bra.
+Det räcker med förväntad (expected) tid, men värstafall går förstås också bra. (Linjär värstafallstid är svårt men inte helt omöjligt.)
+
+På engelska skiljer man på _average_ time complexity där man väger samman tiderna för alla möjliga indata och _exptected_ time complexity där algoritmen använder sig av slump för att göra värstafallsbeteendet extremt osannolikt. Vi har sett två exempel på expected time hittils i kursen: hashtabeller och treapar. På svenska finns det tyvärr ingen tydlig och bra terminologi.
+
+Så här skriver Wikipedia om [Average-case complexity](https://en.wikipedia.org/wiki/Average-case_complexity):
+
+> Average-case analysis requires a notion of an "average" input to an algorithm,
+> which leads to the problem of devising a probability distribution over inputs.
+> Alternatively, a randomized algorithm can be used.
+> The analysis of such algorithms leads to the related notion of an expected complexity.
+
