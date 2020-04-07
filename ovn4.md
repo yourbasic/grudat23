@@ -84,7 +84,7 @@ För vilka värden på k blir algoritmen linjär?
 
 ### 3 Linjärtidssortering när det finns många dubbletter
 
-Designa en algoritm som som sorterar n stycken heltal där det förekommer dubbletter.
+Designa en algoritm som som sorterar n stycken heltal där det förekommer upprepningar.
 Det totala antalet olika tal är k. Beskriv algoritmen i **pseudokod**.
 
 Din algoritm ska ha tidskomplexitet O(n + klog(k)). Förväntad tid räcker.
