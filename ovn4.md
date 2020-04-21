@@ -52,6 +52,8 @@ def _sum(a, i, j):
 	return _sum(a, i, mid) + _sum(a, mid+1, j)
 </code></pre>
 
+[Tips och råd om att räkna ut tidskomplexitet för rekursiva funktioner](https://www.youtube.com/watch?v=sorlJiiWDRA) (video)
+
 #### Praktik
 
 Gör en **benchmark** där du mäter tiden för att exekvera de här funktionerna.
