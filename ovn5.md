@@ -7,6 +7,8 @@
 - Utgå från mallarna i [/grudat20/ovn0/](https://github.com/yourbasic/grudat20/tree/master/ovn0).
 - Lösningar ska vara inlämnade före deadline.
 
+[Grafer 101](https://www.youtube.com/watch?v=8BWts5Ule2I) (video)
+
 ## Betyg G
 
 ### 1. Rita grafer
