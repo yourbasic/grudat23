@@ -49,6 +49,8 @@ Följande rekursion beräknar den maximala inkomsten p(n) som man kan tjäna gen
 - Räkna ut en tabell över p(n) för n = 0, 1, 2, 3, 4, 5 (med samma h som ovan). Gör beräkningen för hand.
 - Visa att tidskomplexiteten för den uppdaterade koden är O(n<sup>2</sup>).
 
+[Tips om dynamisk programmering](https://www.youtube.com/watch?v=obslDoqkm7E) (video)
+
 ### Reguljära uttryck (Kattis)
 
 #### Uppgift [kth.progp.s1](https://kth.kattis.com/problems/kth.progp.s1)
