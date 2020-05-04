@@ -57,6 +57,8 @@ Följande rekursion beräknar den maximala inkomsten p(n) som man kan tjäna gen
 
 #### Uppgift [kth.progp.s1](https://kth.kattis.com/problems/kth.progp.s1)
 
+[Tips om reguljära uttryck](https://www.youtube.com/watch?v=NvKvCXac7sM) (video)
+
 Dina funktioner måste ligga i en fil som heter s1.py, annars får du Run Time Error (“ImportError”) i Kattis.
 
 Använd kodskelettet [s1.py](s1.py). Funktionerna i skelettet returnerar alla en tom sträng,
