@@ -67,7 +67,7 @@ Här är en enkel algoritm som löser problemet.
   Beskriv algoritmen i pseudokod och ange dess
   tidskomplexitet med Θ-notation.
   
-[Video om tidskompleixtet](https://www.youtube.com/watch?v=x04gACtJHX0)
+[Video om tidskomplexitet](https://www.youtube.com/watch?v=x04gACtJHX0)
   
 ### 2.3 Binärt sökträd
 
