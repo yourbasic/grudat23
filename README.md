@@ -7,7 +7,7 @@ som redovisas **muntligt** i samband med de **obligatoriska** övningarna.
 
 Återkoppling på uppgifterna får du på övningarna och ibland också via *issues* i GitHub.
 
-- Mindre fel och missförständ reder vi vanligtvis ut på övningarna.
+- Mindre fel och missförstånd reder vi vanligtvis ut på övningarna.
 - En *issue* innebär att du missat något viktigt på uppgiften och måste komplettera.
 - Om du inte lämnat in ett ordentligt försök till lösning i tid så får du ingen poäng för det momentet
   och kan inte heller komplettera.
