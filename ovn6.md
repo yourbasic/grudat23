@@ -1,5 +1,5 @@
 # Övning 6 grudat21
-### Mpndag 17/5 kl 10.00
+### Måndag 17/5 kl 10.00
 
 - Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn6</code> i organisationen [grudat21 på KTH GitHub](https://gits-15.sys.kth.se/grudat21).
 - Utgå från mallarna i [/grudat21/ovn0/](https://github.com/yourbasic/grudat21/tree/master/ovn0).
