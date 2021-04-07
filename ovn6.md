@@ -1,22 +1,22 @@
-# Övning 6 grudat20
-### Fredag 8/5 kl 08.00
+# Övning 6 grudat21
+### Mpndag 17/5 kl 10.00
 
-- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn6</code> i organisationen [grudat20 på KTH GitHub](https://gits-15.sys.kth.se/grudat20).
-- Utgå från mallarna i [/grudat20/ovn0/](https://github.com/yourbasic/grudat20/tree/master/ovn0).
+- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn6</code> i organisationen [grudat21 på KTH GitHub](https://gits-15.sys.kth.se/grudat20).
+- Utgå från mallarna i [/grudat21/ovn0/](https://github.com/yourbasic/grudat21/tree/master/ovn0).
 - Lösningar ska vara inlämnade före deadline.
 
 Den här gången ska du testa vissa av dina lösningar på Kattis
 innan du lämnar in dem på ditt githubkonto.
 
 1. Du får tillgång till Kattis genom att [logga in](https://kth.kattis.com/login) med ditt KTH-id.
-2. Du måste också [registrera dig på grudat20](https://kth.kattis.com/courses/DD1327/grudat20/register) i Kattis.
+2. Du måste också [registrera dig på grudat21](https://kth.kattis.com/courses/DD1327/grudat21/register) i Kattis.
 
 Mer information om Kattis hittar du i den här utmärkta [exempelmanualen](https://kth.kattis.com/help).
 
 ## Individuellt projekt
 
 Observera att en första version av API och övrig dokumentation till
-det [individuella projektet](https://github.com/yourbasic/grudat20/blob/master/ovn7.md)
+det [individuella projektet](https://github.com/yourbasic/grudat21/blob/master/ovn7.md)
 ska vara klar redan till denna övning.
 
 [Tips om projektet](https://www.youtube.com/watch?v=dzo3TO_v0uk) (video)
@@ -26,7 +26,7 @@ ska vara klar redan till denna övning.
 ### Dynamisk programmering
 
 <!-- CC BY-SA 2.0: https://www.flickr.com/photos/bekathwia/5148701602 -->
-![Knitting machine HACKED](https://github.com/yourbasic/grudat20/blob/master/knitting-machine-hacked.jpg)
+![Knitting machine HACKED](https://github.com/yourbasic/grudat21/blob/master/knitting-machine-hacked.jpg)
 
 [Hacking the Brother KH-930e Knitting Machine](https://www.youtube.com/watch?v=GhnTSWMMtdU)
 
