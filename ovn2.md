@@ -1,5 +1,5 @@
 # Övning 2 grudat21
-### Torsdag 16/4 kl 13.00
+### Fredag 16/4 kl 13.00
 
 **Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.**
 
