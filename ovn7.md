@@ -1,5 +1,5 @@
 # Individuellt projekt grudat20
-### Del 1: Fredag 8/5 kl 08.00, Del 2: Torsdag 14/5 kl 13.00
+### Del 1: Måndag 17/5 kl 10.00, Del 2: Fredag 21/5 kl 13.00
 
 > "The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures."<br> - Kent Beck
 
@@ -24,9 +24,9 @@ texten om [mjukvarukonstruktion](http://yourbasic.org/algorithms/your-basic-api/
 ### Inlämning av API och dokumentation
 
 En första version av API och övrig dokumentation ska vara klar till övning 6,
-fredag 8/5 kl&nbsp;08.00. Du kommer då att få presentera ditt projekt för övriga medlemmar i gruppen.
+mpndag 17/5 kl&nbsp;10.00. Du kommer då att få presentera ditt projekt för övriga medlemmar i gruppen.
 
 ### Slutlig inlämning
 
-Du har sedan en vecka på dig att slutföra projektet.
-**Version 1.0** ska vara incheckat på ditt githubkonto torsdag 14/5, kl.&nbsp;13.00.
+Du har sedan en knapp vecka på dig att slutföra projektet.
+**Version 1.0** ska vara incheckat på ditt githubkonto fredag 21/5, kl.&nbsp;13.00.
