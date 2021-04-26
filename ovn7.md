@@ -3,7 +3,7 @@
 
 > "The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures."<br> - Kent Beck
 
-[Tips och råd](https://www.youtube.com/watch?v=dzo3TO_v0uk) (video)
+[Tips och råd](https://www.youtube.com/watch?v=dzo3TO_v0uk) om projektet. (video)
 
 Du ska skriva ett litet programbibliotek som kan vara användbart för andra.
 Projektet ska genomföras **individuellt**.
