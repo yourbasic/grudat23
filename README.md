@@ -19,8 +19,8 @@ som redovisas **muntligt** i samband med de **obligatoriska** övningarna.
 - [Övning 3](https://github.com/yourbasic/grudat21/blob/master/ovn3.md)  (23/4 kl 13.00)
 - [Övning 4](https://github.com/yourbasic/grudat21/blob/master/ovn4.md)  (29/4 kl 13.00)
 - [Övning 5](https://github.com/yourbasic/grudat21/blob/master/ovn5.md)  (7/5 kl 10.00)
-- Övning 6  (17/5 kl 10.00)
-- Projekt (övning 7) (Del 1: 17/5 kl 10.00, Del 2: 21/5 kl 13.00)
+- [Övning 6](https://github.com/yourbasic/grudat21/blob/master/ovn6.md)  (17/5 kl 10.00)
+- [Projekt (övning 7)](https://github.com/yourbasic/grudat21/blob/master/ovn7.md) (Del 1: 17/5 kl 10.00, Del 2: 21/5 kl 13.00)
 
 Övning x på kursen ska lämnas in i katalogen
 <code>username-ovnx</code> i organisationen [grudat21 på KTH GitHub](https://gits-15.sys.kth.se/grudat21).
