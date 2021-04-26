@@ -9,7 +9,7 @@ Den här gången ska du testa vissa av dina lösningar på Kattis
 innan du lämnar in dem på ditt githubkonto.
 
 1. Du får tillgång till Kattis genom att [logga in](https://kth.kattis.com/login) med ditt KTH-id.
-2. Du måste också [registrera dig på grudat21](https://kth.kattis.com/courses/DD1327/grudat21/register) i Kattis.
+2. Du måste också [registrera dig på grundat21](https://kth.kattis.com/courses/DD1327/grundat21/register) i Kattis. (Ja, vår kurs heter gru<b>n</b>dat21 i Kattis.)
 
 Mer information om Kattis hittar du i den här utmärkta [exempelmanualen](https://kth.kattis.com/help).
 
