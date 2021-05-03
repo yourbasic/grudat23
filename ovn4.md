@@ -57,7 +57,7 @@ def _sum(a, i, j):
 #### Praktik
 
 Gör en **benchmark** där du mäter tiden för att exekvera de här funktionerna.
-Uppgiften ska göras i **Python** och du ska mäta tiden med funktionen <code>time.time</code>:
+Uppgiften ska göras i **Python** och du ska mäta tiden, till exempel med funktionen <code>time.time</code>:
 
 <pre><code>start = time.time()
 pow(n)
