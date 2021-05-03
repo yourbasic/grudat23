@@ -65,7 +65,7 @@ print(n, time.time() - start) # elapsed time
 </code></pre>
 
 Testa för n = 10, 100, 1,000, 10,000, 100,000 och 1,000,000. Vid behov kan du också testa större tal, eller kanske fler datapunkter.
-Presentera resultaten av tidmätningarna i en **tabell** eller i ett **diagram**.
+Presentera resultaten av tidmätningarna i en **tabell** eller i en **graf**.
 
 #### Diskussion
 
