@@ -1,4 +1,4 @@
-# Nisse Nilsson, grudat21 uppg 0.2
+# Nisse Nilsson, grudat22 uppg 0.2
 
 def odd(n):
 	"""Tell if n is an odd number."""
