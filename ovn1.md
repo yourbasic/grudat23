@@ -4,6 +4,8 @@
 - Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn1</code> i organisationen [grudat22 på KTH GitHub](https://gits-15.sys.kth.se/grudat22).
 - Utgå från mallarna i [/grudat22/ovn0/](https://github.com/yourbasic/grudat22/tree/master/ovn0).
 - Lösningar ska vara inlämnade före deadline.
+- Du kommer att få återkoppling på din inlämning i form av en **issue**, antingen att uppgiften är godkänd eller att den behöver kompletteras.
+- Normalt kommer återkopplingen senast på onsdagen veckan efter inlämning.
 
 Du väljer själv vilket av programspråken Python, Go eller Java du vill använda.
 **Observera att all kod på den här kursen ska dokumenteras och testas.**
