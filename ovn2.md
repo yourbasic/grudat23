@@ -1,5 +1,5 @@
 # Övning 2 grudat22
-### Fredag 8/4 kl 8.00
+### Fredag 8/4 kl 08.00
 
 **Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.**
 
