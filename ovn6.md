@@ -1,22 +1,22 @@
-# Övning 6 grudat21
-### Måndag 17/5 kl 10.00
+# Övning 6 grudat22
+### Fredag 13/5 kl 10.00
 
-- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn6</code> i organisationen [grudat21 på KTH GitHub](https://gits-15.sys.kth.se/grudat21).
-- Utgå från mallarna i [/grudat21/ovn0/](https://github.com/yourbasic/grudat21/tree/master/ovn0).
+- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn6</code> i organisationen [grudat22 på KTH GitHub](https://gits-15.sys.kth.se/grudat22).
+- Utgå från mallarna i [/grudat22/ovn0/](https://github.com/yourbasic/grudat22/tree/master/ovn0).
 - Lösningar ska vara inlämnade före deadline.
 
 Den här gången ska du testa vissa av dina lösningar på Kattis
 innan du lämnar in dem på ditt githubkonto.
 
 1. Du får tillgång till Kattis genom att [logga in](https://kth.kattis.com/login) med ditt KTH-id.
-2. Du måste också [registrera dig på grundat21](https://kth.kattis.com/courses/DD1327/grundat21/register) i Kattis. (Ja, vår kurs heter gru<b>n</b>dat21 i Kattis.)
+2. Du måste också [registrera dig på grudat22](https://kth.kattis.com/courses/DD1327/grudat22/register) i Kattis.
 
 Mer information om Kattis hittar du i den här utmärkta [exempelmanualen](https://kth.kattis.com/help).
 
 ## Individuellt projekt
 
 Observera att en första version av API och övrig dokumentation till
-det [individuella projektet](https://github.com/yourbasic/grudat21/blob/master/ovn7.md)
+det [individuella projektet](https://github.com/yourbasic/grudat22/blob/master/ovn7.md)
 ska vara klar redan till denna övning.
 
 [Tips om projektet](https://www.youtube.com/watch?v=dzo3TO_v0uk) (video)
