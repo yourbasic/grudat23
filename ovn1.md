@@ -1,8 +1,8 @@
-# Övning 1 grudat22
-### Fredag 1/4 kl 08.00
+# Övning 1 grudat23
+### Fredag 31/3 kl 08.00
 
-- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn1</code> i organisationen [grudat22 på KTH GitHub](https://gits-15.sys.kth.se/grudat22).
-- Utgå från mallarna i [/grudat22/ovn0/](https://github.com/yourbasic/grudat22/tree/master/ovn0).
+- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn1</code> i organisationen [grudat23 på KTH GitHub](https://gits-15.sys.kth.se/grudat23).
+- Utgå från mallarna i [/grudat23/ovn0/](https://github.com/yourbasic/grudat23/tree/master/ovn0).
 - Lösningar ska vara inlämnade före deadline.
 - Du kommer att få återkoppling på din inlämning i form av en **issue**, antingen att uppgiften är godkänd eller att den behöver kompletteras.
 - Normalt kommer återkopplingen senast på onsdagen veckan efter inlämning.
@@ -18,9 +18,9 @@ Du väljer själv vilket av programspråken Python, Go eller Java du vill använ
 
 Utgå från en av mallarna
 
-- [github.com/yourbasic/grudat22/blob/master/ovn0/uppg2.py](https://github.com/yourbasic/grudat22/blob/master/ovn0/uppg2.py)
-- [github.com/yourbasic/grudat22/blob/master/ovn0/Uppg2.java](https://github.com/yourbasic/grudat22/blob/master/ovn0/Uppg2.java)
-- [github.com/yourbasic/grudat22/blob/master/ovn0/uppg2.go](https://github.com/yourbasic/grudat22/blob/master/ovn0/uppg2.go)
+- [github.com/yourbasic/grudat23/blob/master/ovn0/uppg2.py](https://github.com/yourbasic/grudat23/blob/master/ovn0/uppg2.py)
+- [github.com/yourbasic/grudat23/blob/master/ovn0/Uppg2.java](https://github.com/yourbasic/grudat23/blob/master/ovn0/Uppg2.java)
+- [github.com/yourbasic/grudat23/blob/master/ovn0/uppg2.go](https://github.com/yourbasic/grudat23/blob/master/ovn0/uppg2.go)
 
 [Tips och råd](https://www.youtube.com/watch?v=QRYvu1-H1xQ) (video)
 
@@ -114,9 +114,9 @@ Ditt program ska bestå av två klasser:
 
 Titta gärna på exempelmallarna. De visar hur man kan skriva och testa en klass i Python, Java respektive Go:
 
-- [github.com/yourbasic/grudat22/blob/master/ovn0/uppg3.py](https://github.com/yourbasic/grudat22/blob/master/ovn0/uppg3.py)
-- [github.com/yourbasic/grudat22/blob/master/ovn0/Stack.java](https://github.com/yourbasic/grudat22/blob/master/ovn0/Stack.java)
-- [github.com/yourbasic/grudat22/blob/master/ovn0/uppg3.go](https://github.com/yourbasic/grudat22/blob/master/ovn0/uppg3.go)
+- [github.com/yourbasic/grudat23/blob/master/ovn0/uppg3.py](https://github.com/yourbasic/grudat23/blob/master/ovn0/uppg3.py)
+- [github.com/yourbasic/grudat23/blob/master/ovn0/Stack.java](https://github.com/yourbasic/grudat23/blob/master/ovn0/Stack.java)
+- [github.com/yourbasic/grudat23/blob/master/ovn0/uppg3.go](https://github.com/yourbasic/grudat23/blob/master/ovn0/uppg3.go)
 
 [Tips och råd](https://www.youtube.com/watch?v=SH72Eyelbs4) (video)
 
