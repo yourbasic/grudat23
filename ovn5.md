@@ -1,10 +1,10 @@
-# Övning 5 grudat22
-### Fredag 6/5 kl 08.00
+# Övning 5 grudat23
+### Fredag 5/5 kl 08.00
 
 **Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.**
 
-- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn5</code> i organisationen [grudat22 på KTH GitHub](https://gits-15.sys.kth.se/grudat22).
-- Utgå från mallarna i [/grudat22/ovn0/](https://github.com/yourbasic/grudat22/tree/master/ovn0).
+- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn5</code> i organisationen [grudat23 på KTH GitHub](https://gits-15.sys.kth.se/grudat23).
+- Utgå från mallarna i [/grudat23/ovn0/](https://github.com/yourbasic/grudat23/tree/master/ovn0).
 - Lösningar ska vara inlämnade före deadline.
 
 [Grafer 101](https://www.youtube.com/watch?v=8BWts5Ule2I) (video)
