@@ -1,4 +1,4 @@
-// Nisse Nilsson, grudat22 uppg 0.2
+// Nisse Nilsson, grudat23 uppg 0.2
 public class Uppg2 {
 	/**
 	 * Tells if n is an odd number.
