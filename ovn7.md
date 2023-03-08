@@ -24,7 +24,7 @@ texten om [mjukvarukonstruktion](http://yourbasic.org/algorithms/your-basic-api/
 ### Inlämning av API och dokumentation
 
 En första version av API och övrig dokumentation ska vara klar till övning 6,
-fredag 13/5 kl&nbsp;08.00. Du kommer då att få presentera ditt projekt för övriga medlemmar i gruppen.
+fredag 12/5 kl&nbsp;08.00. Du kommer då att få presentera ditt projekt för övriga medlemmar i gruppen.
 
 ### Slutlig inlämning
 
