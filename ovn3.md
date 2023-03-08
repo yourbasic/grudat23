@@ -1,10 +1,10 @@
-# Övning 3 grudat22
-### Torsdag 14/4 kl 08.00
+# Övning 3 grudat23
+### Fredag 21/4 kl 08.00
 
 **Vid övningen ska du vara beredd att muntligt presentera och diskutera dina lösningar och din programkod.**
 
-- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn3</code> i organisationen [grudat22 på KTH GitHub](https://gits-15.sys.kth.se/grudat22).
-- Utgå från mallarna i [/grudat22/ovn0/](https://github.com/yourbasic/grudat22/tree/master/ovn0).
+- Gör (minst) en fil per uppgift och lägg filerna i katalogen <code>username-ovn3</code> i organisationen [grudat23 på KTH GitHub](https://gits-15.sys.kth.se/grudat23).
+- Utgå från mallarna i [/grudat23/ovn0/](https://github.com/yourbasic/grudat23/tree/master/ovn0).
 - Lösningar ska vara inlämnade före deadline.
 
 Du väljer själv vilket av programspråken Python, Go eller Java du vill använda.
