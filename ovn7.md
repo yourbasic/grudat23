@@ -1,5 +1,5 @@
-# Individuellt projekt grudat22
-### Del 1: Fredag 13/5 kl 08.00, Del 2: Fredag 20/5 kl 08.00
+# Individuellt projekt grudat23
+### Del 1: Fredag 12/5 kl 08.00, Del 2: Tisdag 23/5 kl 10.00
 
 > "The craft of programming begins with empathy, not formatting or languages or tools or algorithms or data structures."<br> - Kent Beck
 
@@ -29,4 +29,4 @@ fredag 13/5 kl&nbsp;08.00. Du kommer då att få presentera ditt projekt för ö
 ### Slutlig inlämning
 
 Du har sedan en knapp vecka på dig att slutföra projektet.
-**Version 1.0** ska vara incheckat på ditt githubkonto fredag 20/5, kl.&nbsp;08.00.
+**Version 1.0** ska vara incheckat på ditt githubkonto tisdag 23/5, kl.&nbsp;10.00.
