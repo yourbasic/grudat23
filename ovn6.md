@@ -55,7 +55,7 @@ Följande rekursion beräknar den maximala inkomsten p(n) som man kan tjäna gen
 
 ### Reguljära uttryck (Kattis)
 
-#### Uppgift [kth.progp.s1](https://kth.kattis.com/courses/DD1327/grudat23/assignments/x7p6as/problems/kth.progp.s1)
+#### Uppgift [kth.progp.s1](https://kth.kattis.com/courses/DD1327/grudat23)
 
 [Tips om reguljära uttryck](https://www.youtube.com/watch?v=NvKvCXac7sM) (video)
 
