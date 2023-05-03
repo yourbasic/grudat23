@@ -14,7 +14,7 @@ Du väljer själv vilket av programspråken Python, Go eller Java du vill använ
 
 ### 1.1 Fakultet
 
-- Implementera fakultetsfunktionen för heltal.
+- Implementera fakultetsfunktionen för icke-negativa heltal.
 
 Utgå från en av mallarna
 
